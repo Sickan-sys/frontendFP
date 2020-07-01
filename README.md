@@ -1,6 +1,7 @@
-  "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.5.0",
-    "@testing-library/user-event": "^7.2.1",
+ netlify link
+ https://wonderful-ride-9f672c.netlify.app/
+ 
+ 
 ## Available Scripts
 
 In the project directory, you can run:
